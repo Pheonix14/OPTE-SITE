@@ -8,6 +8,8 @@ const Projects = () => {
   return (
     <>
       <Navbar />
+      <br/>
+      <br/>
       <Hero />
       <br/>
       <br/>
