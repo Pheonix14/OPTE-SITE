@@ -28,11 +28,11 @@ const ProjectRedirect = () => {
           <h4> <i className="bi bi-link-45deg"></i> Quick Link:</h4>
           <ul className="list-unstyled">
             <li>
-              <a href="" className="text-decoration-none">
+              <a href="https://discord.com/invite/yPHtuGb3c3" className="text-decoration-none">
                 <i className="bi bi-discord"></i> Discord Community</a>
             </li>
             <li>
-              <a href="" className="text-decoration-none">
+              <a href="https://github.com/Phoenix-OPTE" className="text-decoration-none">
                 <i className="bi bi-github"></i> Github</a>
             </li>
             <li>

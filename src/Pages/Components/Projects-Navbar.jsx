@@ -33,10 +33,10 @@ const navigate = useNavigate();
               <a className="nav-link" href="#" onClick={HomeRedirect}> <i class="bi bi-house-door-fill"></i> Home</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#"> <i class="bi bi-github"></i> GitHub</a>
+              <a className="nav-link" href="https://github.com/Phoenix-OPTE"> <i class="bi bi-github"></i> GitHub</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#"> <i class="bi bi-discord"></i> Discord</a>
+              <a className="nav-link" href="https://discord.com/invite/yPHtuGb3c3"> <i class="bi bi-discord"></i> Discord</a>
             </li>
           </ul>
         </div>

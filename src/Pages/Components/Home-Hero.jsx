@@ -20,7 +20,7 @@ const navigate = useNavigate();
     <button className="btn btn-primary btn-sm mx-2" onClick={ProjectRedirect}>
         <i class="bi bi-file-earmark-code-fill"></i> Projects
     </button>
-    <a className="btn btn-info btn-sm" href="#">
+    <a className="btn btn-info btn-sm" href="https://discord.com/invite/yPHtuGb3c3">
         <i class="bi bi-discord"></i> Join Discord
     </a>
   <br/>
@@ -37,11 +37,12 @@ const navigate = useNavigate();
   <br/>
   <h2>Be A Contributor:</h2>
       <div className="github-repo">
-      <a href="https://github.com/Phoenix-Share">
-     <i className="bi bi-github"></i>  Our Github Organization</a>
+      <a href="https://github.com/Phoenix-OPTE">
+     <i className="bi bi-github"></i> Github Organization</a>
       </div>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/pheonix14"/>
-  <p></p>
+  <img className="mx-2" alt="GitHub followers" src="https://img.shields.io/github/followers/Phoenix-OPTE"/>
+  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Phoenix-OPTE"/>
+  <br/>
   <br/>
   <br/>
   <h2>Discord Community:</h2>
