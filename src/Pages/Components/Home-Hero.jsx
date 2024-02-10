@@ -13,7 +13,7 @@ const navigate = useNavigate();
   return (
     <>
 <section className="hero">
-    <img src="../public/favicon-trans.png" alt="Logo" className="Logo"/>
+    <img src="/favicon-trans.png" alt="Logo" className="Logo"/>
     <h1>Welcome to</h1>
     <h1>Phoenix Open Tech</h1>
     <p>An open-source community creating awesome projects</p>
@@ -25,9 +25,9 @@ const navigate = useNavigate();
     </a>
   <br/>
   <br/>
-   <button className="btn btn-light btn-sm">
+   <a className="btn btn-light btn-sm" href="https://phoenixopentech.blogspot.com/">
         <i class="bi bi-newspaper"></i> Blogspot
-    </button>
+    </a>
   <br/>
   <br/>
   <br/>

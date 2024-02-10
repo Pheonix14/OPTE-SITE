@@ -18,7 +18,7 @@ const navigate = useNavigate();
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
-  <img src="../public/favicon-trans.png" alt="" width="40" height="30" className="d-inline-block align-text-top" />
+  <img src="/favicon-trans.png" alt="" width="40" height="30" className="d-inline-block align-text-top" />
   Phoenix Open Tech
 </a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
