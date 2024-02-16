@@ -8,7 +8,7 @@ const Hero = () => {
      <h1>Our Team:</h1>
   <br/>
     <div className="team-card">
-        <img src="https://media.discordapp.net/attachments/1118813310041739314/1205459195025948673/remix-9f5aa224-70e6-41df-b25e-095a1cf625c8.png?ex=65d8725c&is=65c5fd5c&hm=323bff71c0170f10c94db1dd373413eb31c711e82d50e98a0fb3ab475cc15f2f&" alt="Pfp" className="Pfp"/>
+        <img src="https://media.discordapp.net/attachments/1118813310041739314/1208090618790674472/downloadfile-1.jpg?ex=65e20510&is=65cf9010&hm=6e16a2dbd85cadc2069facfb8e14e6323600e4988ba080f3a2a32bd8346f6cee&" alt="Pfp" className="Pfp"/>
         <h2>Pheonix</h2>
         <h5>Role: Founder & Project Manager</h5> <br/>
          <h6>About Me:</h6> <p>I'm Pheonix, a Kolkata-based fullstack web developer. Passionate about coding and occasional gaming. Let's connect for insightful discussions and collaborations.</p>
