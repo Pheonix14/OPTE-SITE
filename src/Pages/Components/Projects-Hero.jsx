@@ -8,6 +8,17 @@ const Hero = () => {
      <h1>Our Projects:</h1>
   <br/>
     <div className="projects-card">
+        <img src="https://media.discordapp.net/attachments/1118813310041739314/1208083749925822464/ae7c5d46-7664-4a10-8d9c-e525bb95773f-removebg-preview_1.png?ex=65e1feab&is=65cf89ab&hm=fb959f4875fbacae99772087a64188a2e8ba26d73def5622351a636bf2296ea8&" alt="Logo" className="Logo"/>
+        <h2>PyroQuanta</h2>
+        <p>PyroQuanta is an AI-based open source discord bot powered by Google's Gemini Pro model.</p>
+       <img alt="GitHub Repo stars" className="mx-2" src="https://img.shields.io/github/stars/Phoenix-OPTE/PyroQuanta"/>
+       <img alt="GitHub forks" src="https://img.shields.io/github/forks/Phoenix-OPTE/PyroQuanta"/>
+      <br/>
+        <a className="btn btn-light btn-sm mx-2" href="https://github.com/Phoenix-OPTE/PyroQuanta">
+       <i class="bi bi-github"></i> GitHub
+        </a>
+    </div>
+    <div className="projects-card">
         <img src="/favicon-trans.png" alt="Logo" className="Logo"/>
         <h2>Phoenix Open Tech</h2>
         <p>Main website of Phoenix Open Tech</p>
