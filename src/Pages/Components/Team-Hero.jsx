@@ -20,20 +20,6 @@ const Hero = () => {
        <i class="bi bi-github"></i> GitHub
         </a>
     </div>
-    <div className="team-card">
-        <img src="https://media.discordapp.net/attachments/1118813310041739314/1205466428061384724/IMG-20240209-WA0003.jpg?ex=65d87918&is=65c60418&hm=9ae71b53d939c19b14399eed96fb65d1a65e6aea73103bc843aa205f95e6ce4d&" alt="Pfp" className="Pfp"/>
-        <h2>Xapaui</h2>
-        <h5>Role: Community Manager & Bug Hunter</h5> <br/>
-         <h6>About Me:</h6> 
-      <p>Meet xapaui, a mobile gaming enthusiast from Odisha, always chasing victory in virtual worlds!</p>
-      <br/>
-        <a className="btn btn-primary btn-sm mx-2" href="https://discord.com/users/756508455837237358">
-       <i class="bi bi-discord"></i> Discord
-        </a>
-        <a className="btn btn-light btn-sm mx-2" href="https://github.com/SANKETOP">
-       <i class="bi bi-github"></i> GitHub
-        </a>
-    </div>
 </section>
     </>
   );
